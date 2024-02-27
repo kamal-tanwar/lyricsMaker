@@ -8,3 +8,9 @@ __pycache__/
 *.pt
 *.pyc
 input.txt
+
+# Python Envirnment Dir
+venv
+
+# Temporary Files
+config/pdf.ipynb
